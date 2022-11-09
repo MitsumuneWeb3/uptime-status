@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'ZGQ Inc. の 站点监测',
+  SiteName: '光宗の站点监控',
 
   // UptimeRobot API Keys
   // 支持Monitor-Specific API Keys和Read-Only API Key，推荐使用Read-Only API Key，可填写多个
   ApiKeys: [
-    'ur1884169-f2ddd4677953551305552673',
+    'ur1902255-9a5f87f139e30f6372ff3dfd',
   ],
 
   // 日志天数，建议90
@@ -18,16 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '个人主页',
-      url: 'https://zgq-inc.github.io/'
+      text: '博客',
+      url: 'https://blog.mitsumune.eu.org/'
     },
     {
-      text: '项目地址',
-      url: 'https://github.com/ZGQ-inc/uptime-status'
+      text: '探针',
+      url: 'http://tz.mitsumune.eu.org/'
     },
     {
-      text: '原项目地址',
-      url: 'https://github.com/imsyy/status'
+      text: '网盘',
+      url: 'https://wp.mitsumune.eu.org/'
     },
   ],
 };
