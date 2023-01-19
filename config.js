@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: '博客',
-      url: 'https://blog.mitsumune.eu.org/'
+      url: 'https://blog.mitsumune.top/'
     },
     {
       text: '探针',
