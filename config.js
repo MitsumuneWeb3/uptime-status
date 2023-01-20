@@ -18,6 +18,10 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
+      text: '个人主页',
+      url: 'https://www.mitsumune.top/'
+    },
+    {
       text: '博客',
       url: 'https://blog.mitsumune.top/'
     },
