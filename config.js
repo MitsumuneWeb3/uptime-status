@@ -27,11 +27,11 @@ window.Config = {
     },
     {
       text: '探针',
-      url: 'http://tz.mitsumune.eu.org/'
+      url: 'http://tz.mitsumune.top/'
     },
     {
       text: '网盘',
-      url: 'https://wp.mitsumune.eu.org/'
+      url: 'https://pan.mitsumune.top/'
     },
   ],
 };
